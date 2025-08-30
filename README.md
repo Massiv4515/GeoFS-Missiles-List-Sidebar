@@ -16,12 +16,14 @@ Example of the missile list panel on GeoFS.
 ####  Method 1: Quick Run (one-time, generally for testing)
 1. Open GeoFS in your browser.  
 2. Open **Developer Console** (`F12` → Console tab).  
-3. Copy the JavaScript code from `missile-panel.js` and paste it into the console.  
+3. Copy the JavaScript code[mandatorily line 12 onwards] from `missile-panel.js` and paste it into the console.  
 4. Hit **Enter** → The missile list panel appears on your screen.
 
 ####  Method 2: Permanent Install (Tampermonkey)
-This is the recommended method!
-Learn Here: https://www.youtube.com/watch?v=c4m8PMzWa_8
+This is the **RECOMMENDED** method!   
+Learn Here: https://www.youtube.com/watch?v=c4m8PMzWa_8   
+
+Copy the whole code within "missile-panel.js" to paste it into TamperMonkey.  
 
 ---
 
