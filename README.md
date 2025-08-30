@@ -23,7 +23,7 @@ Example of the missile list panel on GeoFS.
 This is the **RECOMMENDED** method!   
 Learn Here: https://www.youtube.com/watch?v=c4m8PMzWa_8   
 
-Copy the whole code within "missile-panel.js" to paste it into TamperMonkey.  
+Copy the whole code within `missile-panel.js` to paste it into TamperMonkey.  
 
 ---
 
