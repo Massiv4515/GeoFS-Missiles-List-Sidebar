@@ -6,7 +6,7 @@ It is designed to help **new** players in **military roleplay** quickly access m
 ---
 
 ## Screenshot
-<img width="1919" height="875" alt="Screenshot" src="https://github.com/user-attachments/assets/1c376fae-64fc-42d7-af51-e6f5fe0387d3" />
+![screenshot](https://github.com/user-attachments/assets/594d4cfe-8ec0-4990-b783-7e46a03eae76)
 Example of the missile list panel on GeoFS.
 
 ---
