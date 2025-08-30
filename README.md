@@ -1,7 +1,7 @@
 # GeoFS Military Roleplay Missile List
 
 This project adds a **missile list panel** on the right side of the GeoFS flight simulator page.  
-It is designed to help new players in **military roleplay** quickly access missile names (Chaffs & Flares) during combat, without wasting time scrolling or searching.
+It is designed to help **new** players in **military roleplay** quickly access missile names (Chaffs & Flares) during combat, without wasting time scrolling or searching.
 
 ---
 
