@@ -4,7 +4,7 @@
 // @version      2
 // @description  creates a panel on the right side of your screen containing the missiles list used in GeoFS Military Roleplay.
 // @author       Massiv4515
-// @match        https://www.geo-fs.com/geofs.php?v=3.9
+// @match        https://www.geo-fs.com/geofs.php?v=*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=geo-fs.com
 // @grant        none
 // ==/UserScript==
@@ -129,4 +129,5 @@
     // Add to page
     document.body.appendChild(panel);
 })();
+
 
